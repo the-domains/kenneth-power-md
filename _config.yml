@@ -6,13 +6,13 @@ color:
     - '#B0A878'
     - '#000000'
     - '#000000'
-  brandStrength: 0.361486
-  lightness: 1
-  rhythmicContrast: 0.766891
-  saturation: 0.835585
+  brandStrength: 0.334459
+  lightness: 0.947072
+  rhythmicContrast: 0.648648
+  saturation: 0.792792
 cta: {}
 layout_spectrum: 0.850225
 name: Kenneth Power MD
 opengraph: {}
 purpose: []
-typography_spectrum: 0.643018
+typography_spectrum: 0.691441
