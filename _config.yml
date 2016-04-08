@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#B08098'
-    - '#780010'
-    - '#905870'
-    - '#F02850'
-    - '#D8A0B8'
-  brandStrength: 0.233108
-  lightness: 0.806306
-  rhythmicContrast: 0.838964
-  saturation: 0.739864
+    - '#C8D0B8'
+    - '#000000'
+    - '#B0A878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.686936
+  lightness: 0.764639
+  rhythmicContrast: 0.628378
+  saturation: 0.68018
 cta: {}
-layout_spectrum: 0.944819
+layout_spectrum: 0.322072
 name: Kenneth Power MD
 opengraph: {}
 purpose: []
-typography_spectrum: 1
+typography_spectrum: 0.739864
