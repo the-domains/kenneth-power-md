@@ -1,28 +1,18 @@
-name: Kenneth Power MD
-favicon: null
-layout_spectrum: 0.64903
-typography_spectrum: 0.41356
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#fafaf8'
-    - '#292d30'
-    - '#8f95a1'
-    - '#986e55'
-    - '#7d1d31'
+    - '#C0C0B8'
+    - '#000000'
+    - '#889090'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.6875
   lightness: 0.375
-  saturation: 0.5
   rhythmicContrast: 0.5
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.64903
+name: Kenneth Power MD
+opengraph: {}
 purpose: []
+typography_spectrum: 0.41356
